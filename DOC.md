@@ -4,7 +4,8 @@
 
 Пример кода
 Вот пример кода, который создает список студентов и выводит их ФИО и даты рождения в виде таблицы:
-(```)import pandas as pd
+```
+import pandas as pd
 
 # Создание данных студентов
 students = [
@@ -53,4 +54,5 @@ print(df)
 
 # Для более удобного вывода в Jupyter Notebook можно использовать display(df)
 # from IPython.display import display
-# display(df)(```)
+# display(df)
+```
