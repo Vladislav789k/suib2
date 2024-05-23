@@ -102,5 +102,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
+![image](https://github.com/Vladislav789k/suib2/assets/71137501/db8d3833-6087-4ec1-a8cf-0ebeb749a16a)
+
 ```
 В этой части создается DataFrame из данных студентов. Для этого создается словарь, где ключи это названия столбцов, а значения это списки данных.
